@@ -11,3 +11,5 @@ def fizzbuzz(number)
 end
 
 # Great job amigo!
+
+# Thank you bro!
